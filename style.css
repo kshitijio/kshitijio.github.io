@@ -1,0 +1,23 @@
+#title {
+  color:gray;
+  font-family: MuseoSlab-500;
+}
+#title a {
+  color: black;
+  text-decoration:none
+}
+#description {
+    color: #666666;
+    max-width: 20em;
+}
+#description a, a:visited, a:active {
+  color: black;
+  text-decoration: none;
+}
+
+#description a:hover {
+  text-decoration: underline;
+  border: none;
+}
+
+.MuseoSlab-500 { font-family: MuseoSlab-500; }
